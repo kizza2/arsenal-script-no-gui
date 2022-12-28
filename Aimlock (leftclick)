@@ -1,3 +1,5 @@
+print("https://github.com/kizza2 | <3") 
+
 local dwCamera = workspace.CurrentCamera
 local dwRunService = game:GetService("RunService")
 local dwUIS = game:GetService("UserInputService")
