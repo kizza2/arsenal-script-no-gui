@@ -1,5 +1,4 @@
-print ("kizza esp ;)")
-
+print("https://github.com/kizza2 | <3") 
 
 local lplr = game.Players.LocalPlayer
 local camera = game:GetService("Workspace").CurrentCamera
